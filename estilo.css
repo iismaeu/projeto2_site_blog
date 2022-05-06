@@ -1,0 +1,174 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+h1{
+	color: #4e4e4e;
+	font-size: 3.5em;
+}
+
+h2{
+	color: #2ECCFA;
+	margin-bottom: 10px;
+}
+
+p{
+	margin-top: 10px;
+}
+
+#cabecalho{
+	padding: 25px;
+	background: #2ECCFA;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+
+#logo, #menu{
+	padding: 15px;
+}
+
+#alinhamento{
+	background: #FFF;
+	width: 1150px;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.clear{
+	clear: both;
+}
+
+.branco{
+	color: #FFF;
+}
+
+.responsivo{
+	width: 100%;
+}
+
+.back-branco{
+	background: #FFF;
+	width: 800px;
+	height: 765px;
+	margin: 10px;
+	float: left;
+	padding: 20px;
+	position: left;
+}
+
+.direitos{
+	width: 100%;
+	padding: 20px;
+	float: left;
+	text-align: center;
+	position: relative;
+	color: #585858;
+	font: bold 20px "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+.imagens{
+	width: 800px;
+	height: 550px;
+	padding: 15px 0px 0px 0px;
+	position: relative;
+}
+
+.noticias{
+	background: #FFF;
+	width: 250px;
+	height: 300px;
+	margin: 10px;
+	padding: 10px;
+	position: 10px left;
+	float: right;
+
+}
+
+.noticias2{
+	background: #c0c0c0;
+	padding: 10px;
+	color: #FAFAFA;
+}
+
+.noticias3{
+	background: #FFF;
+	width: 250px;
+	height: 170px;
+	margin: 10px;
+	float: left;
+	padding: 10px;
+	position: relative;
+	color: #FAFAFA;
+	}
+
+.Leia-mais{
+	padding: 8px 0px;
+	background: #2ECCFA;
+}
+
+a{	
+	text-decoration: none;
+}
+
+
+a.linkum:link{
+	font: bold 16px "Trebuchet MS", Helvetica, sans-serif;
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+a.linkum:visited{
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+a.linkum:hover{
+	color: #2ECCFA;
+	background: white;
+}
+
+a.linkum:active{
+	color: #2ECCFA;
+}
+
+
+
+a.linkdois{
+
+}
+
+
+
+a.linktres:link{
+	color: #2ECCFA;
+	margin-top: 10px;
+}
+
+a.linkutres:visited{
+	color: #2ECCFA;
+	padding: 10px 0px;
+}
+
+a.linktres:hover{
+	color: #2ECCFA;
+	text-decoration: underline;
+}
+
+a.linktres:active{
+	color: #2ECCFA;
+
+}
+
